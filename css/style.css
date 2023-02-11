@@ -349,3 +349,13 @@
 .copyright a:hover {
     color: var(--light);
 }
+
+.navbar-brand img {
+    height: 100%;
+    
+  }
+
+  .logo-image {
+   width: 40%;
+
+  }

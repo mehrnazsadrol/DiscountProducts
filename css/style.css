@@ -359,9 +359,9 @@
    width: 40%;
 
   }
-  @media (max-width: 767px) {
+  /* @media (max-width: 767px) {
     .navbar-brand h2 {
       font-size: 1.2rem;
       line-height: 1.5;
     }
-  }
+  } */

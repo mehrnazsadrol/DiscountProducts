@@ -359,3 +359,9 @@
    width: 40%;
 
   }
+
+  @media (max-width: 576px) {
+    .navbar h2 {
+      font-size: 14px;
+    }
+  }
